@@ -1,0 +1,76 @@
+## Page 1
+
+www.aftemplates.comever
+SchoolPTAMinutes
+May14,2011
+ThemeetingwascalledtoorderbyTerryAdamsat7:00p.m.
+Inattendance
+[AttendeesList]
+ApprovalofMinutes
+Theminuteswerereadfromthe[month]meetingandapproved.
+Board
+TheBoard,newprincipal,andguestswereintroducedinthismeeting.KimAbercrombiewas
+nominatedasthenewSecretary.AmotiontoelectJohnwasmadebyMichaelWangandseconded
+byDavidJaffe.JohnAbercrombiewasconfirmedasthenewSecretary.
+AdvisoryCommittee
+ThereareanumberofparentopeningsontheAdvisoryCommittee.Theseopeningswerelistedin
+themostrecentnewsletter.Threeparentsshowedaninterestinservingonthecommittee.MarkBell
+willfollowupwiththoseparentsanddosomesupplementaryrecruitingtofilltheseopenings.
+Budget
+ThebudgetforthecurrentschoolyearwasdistributedbyRichardMiller,PTATreasurer,and
+reviewedbytheboardandPTAmembersatthelastmeeting.Intonight’smeeting,SteveWatson
+madeamotiontoapprovethebudgetwhichwassecondedbyHarryAnderson.Allpresentsvotedin
+favorofapprovingthebudgetaspresented.
+Principal’sReport
+PrincipalSamuelPattisonpresentedhisreport.
+NewBusiness
+RecapofBacktoSchoolnight–May9
+ParentEducationPrograms–Counselors
+TeacherGrantsApplicationProcess–[SchoolName]
+CommitteeReports
+Membership
+Volunteers
+Newsletter
+ComputerSupport
+Announcements
+NextMeeting
+October14,2011,at7:00p.m.,schoolcafeteria
+Motiontoadjournwasmadeat9:00p.m.andwaspassedunanimously.
+MeetingMinutesTemplateMINUTES
+
+## Page 2
+
+www.aftemplates.com
+
+
+## Page 3
+
+www.aftemplates.comSimpleuniformtable
+HeaderCol1 HeaderCol2
+Loremipsum Alinkexample
+NestedTable
+a >b< c
+d e f
+g&t hi
+j k l
+Tablewithmergedcells
+a b
+c d
+e
+Budget
+ThebudgetforthecurrentschoolyearwasdistributedbyRichardMiller,PTATreasurer,andreviewed
+bytheboardandPTAmembersatthelastmeeting.Intonight’smeeting,SteveWatsonmadeamotion
+toapprovethebudgetwhichwassecondedbyHarryAnderson.Allpresentsvotedinfavorofapproving
+thebudgetaspresented.
+Principal’sReport
+PrincipalSamuelPattisonpresentedhisreport.
+NewBusiness
+RecapofBacktoSchoolnight–May9
+ParentEducationPrograms–Counselors
+TeacherGrantsApplicationProcess–[SchoolName]
+CommitteeReports
+Membership
+Volunteers
+Newsletter
+ComputerSupport
+
