@@ -1,0 +1,2179 @@
+[
+    [
+        {
+            "center_position": [
+                414.5,
+                1616.0
+            ],
+            "box_position": [
+                270,
+                1540,
+                559,
+                1692
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    377.5,
+                    1559.5,
+                    "·Membership"
+                ],
+                [
+                    387.0,
+                    1595.0,
+                    "Volunteers"
+                ],
+                [
+                    368.5,
+                    1637.0,
+                    "●Newsletter"
+                ],
+                [
+                    438.0,
+                    1675.5,
+                    "Computer Support"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                270.0,
+                991.0
+            ],
+            "box_position": [
+                221,
+                976,
+                319,
+                1006
+            ],
+            "category": "title",
+            "ocr_result": [
+                [
+                    269.0,
+                    994.5,
+                    "Budget"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                856.0,
+                1084.0
+            ],
+            "box_position": [
+                221,
+                1011,
+                1491,
+                1157
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    855.0,
+                    1031.0,
+                    "The budget for the current school year was distributed by Richard Miller, PTA Treasurer, and"
+                ],
+                [
+                    856.0,
+                    1070.0,
+                    "reviewed by the board and PTA members at the last meeting. In tonight's meeting, Steve Watson"
+                ],
+                [
+                    856.0,
+                    1107.0,
+                    "made a motion to approve the budget which was seconded by Harry Anderson. All presents voted in"
+                ],
+                [
+                    494.5,
+                    1143.5,
+                    "favor of approving the budget as presented."
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                624.5,
+                1405.0
+            ],
+            "box_position": [
+                270,
+                1349,
+                979,
+                1461
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    556.5,
+                    1368.0,
+                    " Recap of Back to School night - May 9"
+                ],
+                [
+                    573.0,
+                    1407.0,
+                    " Parent Education Programs - Counselors"
+                ],
+                [
+                    633.0,
+                    1446.0,
+                    "Teacher Grants Application Process - [School Name]"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                855.5,
+                692.0
+            ],
+            "box_position": [
+                221,
+                639,
+                1490,
+                745
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    857.0,
+                    658.0,
+                    "The Board, new principal, and guests were introduced in this meeting. Kim Abercrombie was"
+                ],
+                [
+                    855.0,
+                    694.0,
+                    "nominated as the new Secretary. A motion to elect John was made by Michael Wang and seconded"
+                ],
+                [
+                    661.5,
+                    732.0,
+                    "by David Jaffe. John Abercrombie was confirmed as the new Secretary."
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                856.0,
+                879.0
+            ],
+            "box_position": [
+                221,
+                826,
+                1491,
+                932
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    855.5,
+                    843.5,
+                    "There are a number of parent openings on the Advisory Committee. These openings were listed in"
+                ],
+                [
+                    856.0,
+                    882.0,
+                    "the most recent newsletter. Three parents showed an interest in serving on the committee. Mark Bell"
+                ],
+                [
+                    805.0,
+                    919.0,
+                    "will follow up with those parents and do some supplementary recruiting to fill these openings."
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                312.0,
+                1326.0
+            ],
+            "box_position": [
+                222,
+                1311,
+                402,
+                1341
+            ],
+            "category": "title",
+            "ocr_result": [
+                [
+                    312.0,
+                    1330.5,
+                    "New Business"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                336.5,
+                1214.5
+            ],
+            "box_position": [
+                222,
+                1199,
+                451,
+                1230
+            ],
+            "category": "title",
+            "ocr_result": [
+                [
+                    337.5,
+                    1218.5,
+                    "Principal's Report"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                602.5,
+                394.0
+            ],
+            "box_position": [
+                225,
+                376,
+                980,
+                412
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    601.0,
+                    396.5,
+                    "The meeting was called to order by Terry Adams at 7:00 p.m."
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                348.0,
+                1517.5
+            ],
+            "box_position": [
+                221,
+                1502,
+                475,
+                1533
+            ],
+            "category": "title",
+            "ocr_result": [
+                [
+                    349.0,
+                    1522.5,
+                    "Committee Reports"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                1335.5,
+                1986.5
+            ],
+            "box_position": [
+                1144,
+                1969,
+                1527,
+                2004
+            ],
+            "category": "abandon",
+            "ocr_result": [
+                [
+                    1333.5,
+                    1990.5,
+                    "Meeting Minutes Template"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                354.5,
+                803.5
+            ],
+            "box_position": [
+                221,
+                787,
+                488,
+                820
+            ],
+            "category": "title",
+            "ocr_result": [
+                [
+                    353.0,
+                    807.5,
+                    "Advisory Committee"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                263.0,
+                617.0
+            ],
+            "box_position": [
+                221,
+                602,
+                305,
+                632
+            ],
+            "category": "title",
+            "ocr_result": [
+                [
+                    262.0,
+                    622.0,
+                    "Board"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                514.0,
+                1252.5
+            ],
+            "box_position": [
+                223,
+                1237,
+                805,
+                1268
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    514.0,
+                    1253.5,
+                    "Principal Samuel Pattison presented his report."
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                409.0,
+                274.5
+            ],
+            "box_position": [
+                221,
+                253,
+                597,
+                296
+            ],
+            "category": "title",
+            "ocr_result": [
+                [
+                    409.0,
+                    277.0,
+                    "School PTA Minutes"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                669.5,
+                1898.5
+            ],
+            "box_position": [
+                222,
+                1882,
+                1117,
+                1915
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    669.0,
+                    1900.5,
+                    "Motion to adjourn was made at 9:00 p.m. and was passed unanimously."
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                329.0,
+                1747.5
+            ],
+            "box_position": [
+                223,
+                1732,
+                435,
+                1763
+            ],
+            "category": "title",
+            "ocr_result": [
+                [
+                    329.0,
+                    1751.0,
+                    "Announcements"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                1378.0,
+                211.0
+            ],
+            "box_position": [
+                1216,
+                176,
+                1540,
+                246
+            ],
+            "category": "abandon",
+            "ocr_result": [
+                [
+                    1377.5,
+                    213.0,
+                    "MINUTES"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                309.5,
+                320.5
+            ],
+            "box_position": [
+                223,
+                304,
+                396,
+                337
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    308.5,
+                    323.0,
+                    "May 14, 2011"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                239.5,
+                216.5
+            ],
+            "box_position": [
+                229,
+                205,
+                250,
+                228
+            ],
+            "category": "abandon"
+        },
+        {
+            "center_position": [
+                630.0,
+                544.0
+            ],
+            "box_position": [
+                224,
+                528,
+                1036,
+                560
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    627.0,
+                    546.5,
+                    "The minutes were read from the [month] meeting and approved."
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                520.0,
+                1824.5
+            ],
+            "box_position": [
+                223,
+                1808,
+                817,
+                1841
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    521.0,
+                    1826.0,
+                    "October 14, 2011, at 7:00 p.m., school cafeteria"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                313.0,
+                432.0
+            ],
+            "box_position": [
+                223,
+                418,
+                403,
+                446
+            ],
+            "category": "title",
+            "ocr_result": [
+                [
+                    311.5,
+                    434.5,
+                    "In attendance"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                355.5,
+                506.0
+            ],
+            "box_position": [
+                223,
+                492,
+                488,
+                520
+            ],
+            "category": "title",
+            "ocr_result": [
+                [
+                    354.5,
+                    509.5,
+                    "Approval of Minutes"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                312.0,
+                1786.5
+            ],
+            "box_position": [
+                222,
+                1770,
+                402,
+                1803
+            ],
+            "category": "title",
+            "ocr_result": [
+                [
+                    309.5,
+                    1787.5,
+                    "Next Meeting"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                519.5,
+                1805.5
+            ],
+            "box_position": [
+                221,
+                1771,
+                818,
+                1840
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    312.0,
+                    1786.5,
+                    "NextMeeting"
+                ],
+                [
+                    520.0,
+                    1826.0,
+                    "October 14, 2011, at 7:00 p.m., school cafeteria"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                323.5,
+                469.0
+            ],
+            "box_position": [
+                224,
+                454,
+                423,
+                484
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    322.5,
+                    472.0,
+                    "[Attendees List]"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                325.0,
+                452.5
+            ],
+            "box_position": [
+                223,
+                417,
+                427,
+                488
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    313.0,
+                    434.5,
+                    "In attendance"
+                ],
+                [
+                    321.0,
+                    473.5,
+                    "[Attendees List]"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                354.0,
+                474.5
+            ],
+            "box_position": [
+                222,
+                424,
+                486,
+                525
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    313.0,
+                    435.0,
+                    "In attendance"
+                ],
+                [
+                    322.0,
+                    470.5,
+                    "[Attendees List]"
+                ],
+                [
+                    353.5,
+                    509.0,
+                    "Approval of Minutes"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "center_position": [
+                1121.0,
+                455.5
+            ],
+            "box_position": [
+                864,
+                391,
+                1378,
+                520
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    1122.5,
+                    406.0,
+                    "trainingstatuscomparisonsin thisinitial study,coupld"
+                ],
+                [
+                    1121.5,
+                    432.0,
+                    "with the fact thatno interactions werenotedfor any of"
+                ],
+                [
+                    1120.5,
+                    457.0,
+                    "the above-mentioned comparisons,only pooled data are"
+                ],
+                [
+                    1120.0,
+                    483.5,
+                    "presented in the tables and discussed within this"
+                ],
+                [
+                    919.5,
+                    513.0,
+                    "manuscript."
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                1122.0,
+                861.5
+            ],
+            "box_position": [
+                864,
+                522,
+                1380,
+                1201
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    1127.5,
+                    536.0,
+                    "It is important to note that our findings are in refer-"
+                ],
+                [
+                    1121.5,
+                    564.0,
+                    "enceto relatively healthy,young tomiddle agemen and"
+                ],
+                [
+                    1121.5,
+                    589.0,
+                    "women （agerange:20-62years),withawideBMIrange"
+                ],
+                [
+                    1121.5,
+                    614.0,
+                    "(18.0 kg-m²to 40.6 kg-m²), and varied regular exercise"
+                ],
+                [
+                    1120.5,
+                    642.0,
+                    "and dietary habits.Interestingly,wenoted similarfnd"
+                ],
+                [
+                    1122.5,
+                    667.0,
+                    "ings in all subject groups (as discussed below). For"
+                ],
+                [
+                    1121.5,
+                    693.0,
+                    "example,similar percent changesin all measuredvari"
+                ],
+                [
+                    1122.5,
+                    720.0,
+                    "ablesfrom pre to postfastwere observedinsubjects"
+                ],
+                [
+                    1119.0,
+                    742.5,
+                    "who are of normal weight and low body fat (e.g,<10%"
+                ],
+                [
+                    1121.5,
+                    771.0,
+                    "for men and<20%for women),who exerciseregularly"
+                ],
+                [
+                    1123.0,
+                    797.5,
+                    "for 4+ hours per wek and eat a very “clean diet on a"
+                ],
+                [
+                    1123.0,
+                    825.0,
+                    "regular basis (including vegetarians), as compared to"
+                ],
+                [
+                    1123.0,
+                    850.0,
+                    "overweight/obese,sedentary subjects who consume a"
+                ],
+                [
+                    1121.5,
+                    875.0,
+                    "relatively poor diet.However,it should benoted that"
+                ],
+                [
+                    1121.5,
+                    902.0,
+                    "while the percent change in outcome measureswas"
+                ],
+                [
+                    1121.5,
+                    927.0,
+                    "similar between such individuals,the absolute values"
+                ],
+                [
+                    1121.5,
+                    954.5,
+                    "were better for the normalweight,exercise enthusiasts"
+                ],
+                [
+                    1120.0,
+                    980.0,
+                    "compared to the overweight/obese,sedentary subjects"
+                ],
+                [
+                    1120.0,
+                    1005.0,
+                    "（discussed below).Based on our collective findings,t is"
+                ],
+                [
+                    1119.0,
+                    1032.5,
+                    "possible that individuals with diagnosedmetabolic and"
+                ],
+                [
+                    1119.5,
+                    1059.0,
+                    "cardiovascular disorders may experience clinicallymean-"
+                ],
+                [
+                    1121.5,
+                    1085.0,
+                    "ingful results on such a dietary regimen.Future work"
+                ],
+                [
+                    1121.5,
+                    1111.5,
+                    "should consider theinclusion of such patients,as this"
+                ],
+                [
+                    1120.5,
+                    1137.0,
+                    "diet may be considered an anti-inflammatory,anti-"
+                ],
+                [
+                    1121.5,
+                    1164.0,
+                    "atherogenic, anti-hypertensive,non-pharmacologic"
+                ],
+                [
+                    1037.0,
+                    1190.5,
+                    "approach to diseaseriskmanagement."
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                1122.0,
+                1500.5
+            ],
+            "box_position": [
+                864,
+                1201,
+                1380,
+                1800
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    1129.5,
+                    1213.5,
+                    "Whilewe did note a reduction of blood pressure,as"
+                ],
+                [
+                    1120.5,
+                    1239.0,
+                    "wellas a decrease in total(19%)and LDLcholesterol"
+                ],
+                [
+                    1121.5,
+                    1266.0,
+                    "(23%） with the Daniel Fast in just three weeks,findings"
+                ],
+                [
+                    1121.5,
+                    1294.0,
+                    "similar to those noted for other plant-based diets"
+                ],
+                [
+                    1121.5,
+                    1320.0,
+                    "[19-21],we also noted a decrease in HDL-C (14%)."
+                ],
+                [
+                    1122.5,
+                    1345.0,
+                    "While the total:HDL-Cwas improved slightly（Table 4),"
+                ],
+                [
+                    1121.0,
+                    1371.5,
+                    "the drop in HDL-Cremains a concern.If this eating"
+                ],
+                [
+                    1121.5,
+                    1398.0,
+                    "plan is to be viewed as“heart healthy”in all aspects,"
+                ],
+                [
+                    1121.5,
+                    1424.0,
+                    "future studies involving the Daniel Fast may include"
+                ],
+                [
+                    1122.5,
+                    1451.0,
+                    "specific food choices (e.g, almonds,plantago ovata"
+                ],
+                [
+                    1121.5,
+                    1478.0,
+                    "husks,walnuts)[22-24] and/or dietary supplements"
+                ],
+                [
+                    1121.5,
+                    1502.0,
+                    "[25,26] noted to increase HDL-C, in an effort to main-"
+                ],
+                [
+                    1121.5,
+                    1528.5,
+                    "tain HDL-Cwhile decreasing both total and LDL-C."
+                ],
+                [
+                    1122.5,
+                    1555.0,
+                    "Aside from HDL-C,although insulin (24%),HOMA-IR"
+                ],
+                [
+                    1121.5,
+                    1581.0,
+                    "(26%),and C-reactive protein(49%) decreased during"
+                ],
+                [
+                    1121.5,
+                    1605.0,
+                    "the21dayfast,these decreasesfailed toreach statistical"
+                ],
+                [
+                    1123.0,
+                    1634.0,
+                    "significance.A post hoc power analysis indicated that a"
+                ],
+                [
+                    1120.5,
+                    1659.0,
+                    "totalof 57 subjects would beneeded to demonstrate sta-"
+                ],
+                [
+                    1121.5,
+                    1685.5,
+                    "tisticalsignificanceforinsulin andHOMA-IR,while65"
+                ],
+                [
+                    1121.5,
+                    1712.0,
+                    "subjectswould be needed for C-reactive protein.Future"
+                ],
+                [
+                    1119.0,
+                    1736.0,
+                    "studies may include a larger sample size in order to"
+                ],
+                [
+                    1121.5,
+                    1765.0,
+                    "improve the chance of achieving statistical significance"
+                ],
+                [
+                    1120.0,
+                    1791.0,
+                    "for these variables. Of course,inclusion of individuals"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                579.5,
+                968.5
+            ],
+            "box_position": [
+                323,
+                773,
+                836,
+                1164
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    579.5,
+                    788.0,
+                    "bloodpressure,2)significantlyreducestotal,DL,and"
+                ],
+                [
+                    578.5,
+                    812.5,
+                    "HDLcholesterol,3）reducesinsulin,HOMA-IR,andC"
+                ],
+                [
+                    579.5,
+                    840.0,
+                    "reactive protein in a clinically meaningful,although sta"
+                ],
+                [
+                    577.5,
+                    865.0,
+                    "tistically insignificant manner,4) does not cause any"
+                ],
+                [
+                    580.0,
+                    892.5,
+                    "negative effects on blood count or metabolic panel"
+                ],
+                [
+                    581.0,
+                    918.0,
+                    "values,5） is well-tolerated,and 6) may be useful as a"
+                ],
+                [
+                    579.5,
+                    944.0,
+                    "nutrition education tool for men and women.To our"
+                ],
+                [
+                    579.5,
+                    972.0,
+                    "knowledge,thisisthefirst scientificinvestigation of the"
+                ],
+                [
+                    579.0,
+                    997.0,
+                    "Daniel Fast.Subsequent statistical analyses indicatedno"
+                ],
+                [
+                    580.5,
+                    1023.0,
+                    "interactions betweennormalweight andoverweight/"
+                ],
+                [
+                    579.5,
+                    1050.0,
+                    "obesesubjects,men andwomen,and exercisetrained"
+                ],
+                [
+                    578.5,
+                    1075.0,
+                    "and untrained subjects (as discussed below).This sug-"
+                ],
+                [
+                    579.5,
+                    1102.0,
+                    "gests that a widevariety of individualsmay benefit from"
+                ],
+                [
+                    578.5,
+                    1127.5,
+                    "a dietary approach in accordance with the Daniel Fast."
+                ],
+                [
+                    581.0,
+                    1155.0,
+                    "Aswewere not concerned withweight status,sex,or"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                518.5,
+                292.5
+            ],
+            "box_position": [
+                322,
+                272,
+                715,
+                313
+            ],
+            "category": "abandon",
+            "ocr_result": [
+                [
+                    521.0,
+                    284.0,
+                    "BlomertlpidsiHethndDiseas2010994"
+                ],
+                [
+                    480.5,
+                    308.0,
+                    "http:/www.ipidworld.com/content/9/1/94"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                1333.5,
+                283.5
+            ],
+            "box_position": [
+                1288,
+                273,
+                1379,
+                294
+            ],
+            "category": "abandon",
+            "ocr_result": [
+                [
+                    1332.0,
+                    287.5,
+                    "Page 6 of 9"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                401.0,
+                1790.0
+            ],
+            "box_position": [
+                320,
+                1779,
+                482,
+                1801
+            ],
+            "category": "table_footnote"
+        },
+        {
+            "center_position": [
+                577.0,
+                1509.5
+            ],
+            "box_position": [
+                319,
+                1240,
+                835,
+                1779
+            ],
+            "category": "table",
+            "ocr_result": [
+                [
+                    580.0,
+                    1261.5,
+                    "Pre"
+                ],
+                [
+                    691.0,
+                    1260.0,
+                    "During"
+                ],
+                [
+                    796.0,
+                    1260.5,
+                    "Pvalue"
+                ],
+                [
+                    361.5,
+                    1290.0,
+                    "Kilocalories"
+                ],
+                [
+                    582.0,
+                    1290.0,
+                    "2185± 94"
+                ],
+                [
+                    695.5,
+                    1290.0,
+                    "1722 ± 85"
+                ],
+                [
+                    798.0,
+                    1290.0,
+                    "0.0005"
+                ],
+                [
+                    361.5,
+                    1318.5,
+                    "Protein (g)"
+                ],
+                [
+                    581.0,
+                    1316.5,
+                    "92±6"
+                ],
+                [
+                    693.0,
+                    1317.5,
+                    "62±5"
+                ],
+                [
+                    795.5,
+                    1316.5,
+                    "0.0003"
+                ],
+                [
+                    365.0,
+                    1344.0,
+                    "Protein (%)"
+                ],
+                [
+                    582.0,
+                    1344.0,
+                    "17±0"
+                ],
+                [
+                    693.0,
+                    1343.0,
+                    "13±0"
+                ],
+                [
+                    794.5,
+                    1343.0,
+                    "0.004"
+                ],
+                [
+                    385.5,
+                    1369.5,
+                    "Carbohydrate (g)"
+                ],
+                [
+                    582.0,
+                    1368.0,
+                    "287 ±14"
+                ],
+                [
+                    693.0,
+                    1368.0,
+                    "269±17"
+                ],
+                [
+                    794.5,
+                    1368.0,
+                    "0.41"
+                ],
+                [
+                    383.5,
+                    1395.5,
+                    "Carbohydrate (9%)"
+                ],
+                [
+                    580.0,
+                    1395.5,
+                    "53±0"
+                ],
+                [
+                    693.0,
+                    1395.5,
+                    "62±0"
+                ],
+                [
+                    795.5,
+                    1394.5,
+                    "0.0002"
+                ],
+                [
+                    354.5,
+                    1421.0,
+                    "Fiber (g)"
+                ],
+                [
+                    579.5,
+                    1421.0,
+                    "26±2"
+                ],
+                [
+                    693.0,
+                    1421.0,
+                    "40±3"
+                ],
+                [
+                    797.0,
+                    1422.0,
+                    "0.0001"
+                ],
+                [
+                    357.0,
+                    1448.0,
+                    "Sugar (g)"
+                ],
+                [
+                    579.5,
+                    1447.5,
+                    "95±7"
+                ],
+                [
+                    693.0,
+                    1447.5,
+                    "86±6"
+                ],
+                [
+                    794.5,
+                    1446.0,
+                    "0:37"
+                ],
+                [
+                    347.5,
+                    1473.5,
+                    "Fat(g)"
+                ],
+                [
+                    580.5,
+                    1473.5,
+                    "74±5"
+                ],
+                [
+                    692.0,
+                    1473.5,
+                    "54±4"
+                ],
+                [
+                    794.5,
+                    1473.5,
+                    "0.003"
+                ],
+                [
+                    350.0,
+                    1499.5,
+                    "Fat (9)"
+                ],
+                [
+                    582.0,
+                    1499.5,
+                    "30±0"
+                ],
+                [
+                    693.0,
+                    1499.5,
+                    "27±0"
+                ],
+                [
+                    796.0,
+                    1499.5,
+                    "020"
+                ],
+                [
+                    384.5,
+                    1527.5,
+                    "Saturated Fat (g)"
+                ],
+                [
+                    579.5,
+                    1526.0,
+                    "24±2"
+                ],
+                [
+                    692.0,
+                    1527.5,
+                    "9±1"
+                ],
+                [
+                    794.5,
+                    1526.0,
+                    "<0.0001"
+                ],
+                [
+                    411.5,
+                    1553.0,
+                    "MonounsaturatedFat(g)"
+                ],
+                [
+                    580.5,
+                    1551.5,
+                    "14±2"
+                ],
+                [
+                    693.0,
+                    1552.5,
+                    "14±2"
+                ],
+                [
+                    795.5,
+                    1551.5,
+                    "0.89"
+                ],
+                [
+                    405.0,
+                    1576.5,
+                    "Polyunsaturated Fat (g)"
+                ],
+                [
+                    580.0,
+                    1577.5,
+                    "8±1"
+                ],
+                [
+                    692.0,
+                    1577.5,
+                    "9±1"
+                ],
+                [
+                    794.5,
+                    1576.5,
+                    "0.47"
+                ],
+                [
+                    368.5,
+                    1605.5,
+                    "TransFat (g)"
+                ],
+                [
+                    581.0,
+                    1603.0,
+                    "1±0"
+                ],
+                [
+                    692.0,
+                    1604.0,
+                    "0±0"
+                ],
+                [
+                    796.0,
+                    1603.0,
+                    "0.006"
+                ],
+                [
+                    375.5,
+                    1632.0,
+                    "Omega3(mg)"
+                ],
+                [
+                    580.5,
+                    1630.5,
+                    "711±163"
+                ],
+                [
+                    693.0,
+                    1630.5,
+                    "798 ± 202"
+                ],
+                [
+                    794.5,
+                    1629.5,
+                    "0.77"
+                ],
+                [
+                    377.5,
+                    1658.0,
+                    "Omega6（mg)"
+                ],
+                [
+                    581.0,
+                    1657.0,
+                    "2510±327"
+                ],
+                [
+                    692.0,
+                    1655.5,
+                    "3341±345"
+                ],
+                [
+                    796.0,
+                    1657.0,
+                    "0.10"
+                ],
+                [
+                    382.0,
+                    1683.5,
+                    "Cholesterol(mg)"
+                ],
+                [
+                    580.0,
+                    1683.5,
+                    "225±19"
+                ],
+                [
+                    693.0,
+                    1684.0,
+                    "28±20"
+                ],
+                [
+                    796.0,
+                    1683.5,
+                    "<0.0001"
+                ],
+                [
+                    378.5,
+                    1710.5,
+                    "Vitamin C(mg)"
+                ],
+                [
+                    580.0,
+                    1709.5,
+                    "70±9"
+                ],
+                [
+                    694.0,
+                    1710.0,
+                    "119±12"
+                ],
+                [
+                    794.5,
+                    1709.5,
+                    "0.002"
+                ],
+                [
+                    376.5,
+                    1736.0,
+                    "Vitamin E (mg)"
+                ],
+                [
+                    579.5,
+                    1735.0,
+                    "8±2"
+                ],
+                [
+                    693.0,
+                    1735.0,
+                    "11±1"
+                ],
+                [
+                    794.5,
+                    1735.0,
+                    "0.36"
+                ],
+                [
+                    374.0,
+                    1761.5,
+                    "Vitamin A (RE)"
+                ],
+                [
+                    582.0,
+                    1761.5,
+                    "404 ± 60"
+                ],
+                [
+                    694.0,
+                    1761.5,
+                    "435 ± 70"
+                ],
+                [
+                    796.0,
+                    1761.5,
+                    "0.70"
+                ]
+            ],
+            "latex_result": "\\begin{tabular}{@{}lccc@{}}\\toprule\\textbf{Variable} & \\textbf{Pre} & \\textbf{ during} & \\textbf{P value} \\\\\\midrule \\textbf{Klocsiories} & \\textbf{$2185 \\pm 94$} & \\textbf{$172 \\pm 85$} & \\textbf{00005} \\\\\\textbf{Prouen(g)} & \\textbf{$92 \\pm 6$} & \\textbf{$62 \\pm 5$} & \\textbf{00003} \\\\\\textbf{Prouen(R){\\tiny 图} } & \\textbf{17 \\pm 0} & \\textbf{13 \\pm 0} & \\textbf{0004} \\\\\\textbf{Carbohydrate(g)} & \\textbf{287 \\pm I4} & \\textbf{269 \\pm 17} & \\textbf{041} \\\\\\textbf{Carbohydrate(g)} & \\textbf{33 \\pm 0} & \\textbf{62 \\pm 0} & \\textbf{00002} \\\\\\textbf{Faber(g)} & \\textbf{26 \\pm 2} & \\textbf{40 \\pm 3} & \\textbf{$< 00001$} \\\\\\textbf{Sugar(g)} & \\textbf{96 \\pm 7} & \\textbf{88 \\pm 6} & \\textbf{037} \\\\\\textbf{Fat(g)} & \\textbf{74 \\pm 5} & \\textbf{54 \\pm 4} & \\textbf{0003} \\\\\\textbf{Fat(G)} & \\textbf{30 \\pm 0} & \\textbf{27 \\pm 0} & \\textbf{020} \\\\\\textbf{SaturatedFat(g)} & \\textbf{24 \\pm 2} & \\textbf{9 \\pm 1} & \\textbf{$< 00001$} \\\\\\textbf{MonoursarvatedFat(g)} & \\textbf{14 \\pm 2} & \\textbf{14 \\pm 2} & \\textbf{089} \\\\\\textbf{PopyrsaturatedFat(g)} & \\textbf{$8 \\pm 1$} & \\textbf{$9 \\pm 1$} & \\textbf{047} \\\\\\textbf{TransFIR(g)} & \\textbf{1 \\pm 0} & \\textbf{$0 \\pm 0$} & \\textbf{0006} \\\\\\textbf{Onequa3(g)} & \\textbf{711 \\pm 163} & \\textbf{78. \\pm 202} & \\textbf{077} \\\\\\textbf{Onequa6(g)} & \\textbf{230 \\pm 37} & \\textbf{334 \\pm 345} & \\textbf{010} \\\\\\textbf{Cholesterol(g)} & \\textbf{225 \\pm 19} & \\textbf{28 \\pm 20} & \\textbf{$< 00001$} \\\\\\textbf{VfaminC(g)} & \\textbf{70 \\pm 9} & \\textbf{119 \\pm 12} & \\textbf{0002} "
+        },
+        {
+            "center_position": [
+                518.5,
+                690.0
+            ],
+            "box_position": [
+                320,
+                637,
+                717,
+                743
+            ],
+            "category": "table_footnote",
+            "ocr_result": [
+                [
+                    403.0,
+                    648.5,
+                    "Values are mean ± SEM."
+                ],
+                [
+                    365.0,
+                    669.0,
+                    "P0.0001"
+                ],
+                [
+                    365.0,
+                    692.0,
+                    "\"p=0.02"
+                ],
+                [
+                    373.0,
+                    715.0,
+                    "p=0.0004"
+                ],
+                [
+                    520.5,
+                    737.0,
+                    "No other statisticlly ignificat diffeeces nted (p>005)"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                556.0,
+                1218.0
+            ],
+            "box_position": [
+                321,
+                1195,
+                791,
+                1241
+            ],
+            "category": "table_caption",
+            "ocr_result": [
+                [
+                    556.5,
+                    1210.0,
+                    "Table5Dietary dataofmen andwomenbefore and"
+                ],
+                [
+                    554.5,
+                    1234.0,
+                    "during thefinalsevendaysofa21dayDanielFast"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                578.5,
+                537.0
+            ],
+            "box_position": [
+                319,
+                437,
+                838,
+                637
+            ],
+            "category": "table",
+            "ocr_result": [
+                [
+                    354.5,
+                    458.0,
+                    "Variable"
+                ],
+                [
+                    617.0,
+                    460.5,
+                    "Pre"
+                ],
+                [
+                    764.5,
+                    458.5,
+                    "Post"
+                ],
+                [
+                    401.5,
+                    487.0,
+                    "Cholesterol (mgdl')"
+                ],
+                [
+                    617.5,
+                    487.0,
+                    "171.1 ± 4.6"
+                ],
+                [
+                    768.0,
+                    487.0,
+                    "138.7 ± 4.4"
+                ],
+                [
+                    403.0,
+                    514.5,
+                    "Triglycerides (mg-dL)"
+                ],
+                [
+                    619.0,
+                    513.0,
+                    "85.1±48"
+                ],
+                [
+                    766.5,
+                    512.0,
+                    "75.3±36"
+                ],
+                [
+                    388.0,
+                    539.5,
+                    "HDL-C（mg·dL）**"
+                ],
+                [
+                    620.5,
+                    538.5,
+                    "556±2.5"
+                ],
+                [
+                    768.0,
+                    539.5,
+                    "476±22"
+                ],
+                [
+                    387.0,
+                    566.0,
+                    "VLDL-C(mgdL-)"
+                ],
+                [
+                    620.5,
+                    566.0,
+                    "17.0±10"
+                ],
+                [
+                    768.0,
+                    566.0,
+                    "15.0±0.7"
+                ],
+                [
+                    389.0,
+                    592.5,
+                    "LDL-C(mg-dL）***"
+                ],
+                [
+                    620.5,
+                    594.0,
+                    "98.4±3.9"
+                ],
+                [
+                    768.0,
+                    592.5,
+                    "76.1 ± 3.5"
+                ],
+                [
+                    367.0,
+                    617.5,
+                    "TotalHDL-C"
+                ],
+                [
+                    617.5,
+                    617.5,
+                    "3.3±0.1"
+                ],
+                [
+                    766.5,
+                    617.5,
+                    "3.1±0.1"
+                ]
+            ],
+            "latex_result": "\\begin{tabular}{@{}lccc@{}}\\hline \\hline \\textbf{\\tiny 标志} & \\phantom{ab} & \\textbf{\\tiny In} & \\phantom{ab} & \\textbf{\\tiny Post} \\\\\\hline \\textbf{\\tiny Onosteol(mgdt)''} && \\textbf{\\tiny 1/11\\,±\\,46} && \\textbf{\\tiny 1387\\,±\\,44} \\\\\\textbf{\\tiny 70lycerodes(mgdt)''} && \\textbf{\\tiny 85.1\\,±\\,48} && \\textbf{\\tiny 753\\,±\\,36} \\\\\\textbf{\\tiny Hol-C(mgdt)''} && \\textbf{\\tiny 556\\,±\\,23} && \\textbf{\\tiny 476\\,±\\,22} \\\\\\textbf{\\tiny MDL-C(mgdt)''} && \\textbf{\\tiny 170\\,±\\,10} && \\textbf{\\tiny 180\\,±\\,07} \\\\\\textbf{\\tiny DDLC(mgdt)''} && \\textbf{\\tiny 984\\,±\\,39} && \\textbf{\\tiny 761\\,±\\,35} \\\\\\textbf{\\tiny Fina+DL-C} && \\textbf{\\tiny 13\\,±\\,0]} && \\textbf{\\tiny 11\\,±\\,01} \\\\\\hline \\hline \\end{tabular}"
+        },
+        {
+            "center_position": [
+                574.0,
+                413.0
+            ],
+            "box_position": [
+                320,
+                389,
+                828,
+                437
+            ],
+            "category": "table_caption",
+            "ocr_result": [
+                [
+                    575.0,
+                    408.0,
+                    "Table4Lipidpaneldataofmenandwomenbeforeand"
+                ],
+                [
+                    439.0,
+                    428.5,
+                    "aftera 21dayDaniel Fast"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "center_position": [
+                287.5,
+                1086.5
+            ],
+            "box_position": [
+                198,
+                1072,
+                377,
+                1101
+            ],
+            "category": "title",
+            "ocr_result": [
+                [
+                    286.5,
+                    1090.0,
+                    "New Business"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                313.0,
+                976.0
+            ],
+            "box_position": [
+                198,
+                961,
+                428,
+                991
+            ],
+            "category": "title",
+            "ocr_result": [
+                [
+                    313.0,
+                    979.5,
+                    "Principal's Report"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                850.5,
+                845.5
+            ],
+            "box_position": [
+                197,
+                773,
+                1504,
+                918
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    850.0,
+                    793.0,
+                    "The budget for the current school year was distributed by Richard Miller, PTA Treasurer, and reviewed"
+                ],
+                [
+                    850.0,
+                    830.0,
+                    "by the board and PTA members at the last meeting. In tonight's meeting, Steve Watson made a motion"
+                ],
+                [
+                    848.5,
+                    868.5,
+                    "to approve the budget which was seconded by Harry Anderson. All presents voted in favor of approving"
+                ],
+                [
+                    353.0,
+                    905.0,
+                    "thebudget aspresented."
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                324.5,
+                1278.0
+            ],
+            "box_position": [
+                197,
+                1263,
+                452,
+                1293
+            ],
+            "category": "title",
+            "ocr_result": [
+                [
+                    323.0,
+                    1281.0,
+                    "Committee Reports"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                246.0,
+                751.5
+            ],
+            "box_position": [
+                197,
+                737,
+                295,
+                766
+            ],
+            "category": "title",
+            "ocr_result": [
+                [
+                    243.5,
+                    755.0,
+                    "Budget"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                601.5,
+                1167.5
+            ],
+            "box_position": [
+                246,
+                1111,
+                957,
+                1224
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    513.0,
+                    1129.0,
+                    "·Recap of Back to School night - May 9"
+                ],
+                [
+                    548.5,
+                    1169.0,
+                    " Parent Education Programs - Counselors"
+                ],
+                [
+                    605.5,
+                    1208.0,
+                    "Teacher Grants Application Process - [School Name]"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                835.5,
+                593.5
+            ],
+            "box_position": [
+                185,
+                542,
+                1486,
+                645
+            ],
+            "category": "table",
+            "ocr_result": [
+                [
+                    1097.5,
+                    598.5,
+                    "d"
+                ]
+            ],
+            "latex_result": "\\begin{tabular}{|p{0.25\\columnwidth}|p{0.25\\columnwidth}|p{0.25\\columnwidth}|p{0.25\\columnwidth}|p{0.25\\columnwidth}|}\\hline $\\texttt{a}$ & \\multicolumn{2}{l|}{$\\texttt{b}$} \\\\ \\cline{2-3} & $\\texttt{c}$ & $\\texttt{d}$ \\\\ \\cline{1-3}\\multicolumn{3}{|l|}{$\\texttt{e}$} \\\\ \\hline \\end{tabular}"
+        },
+        {
+            "center_position": [
+                837.0,
+                262.0
+            ],
+            "box_position": [
+                188,
+                227,
+                1486,
+                297
+            ],
+            "category": "table",
+            "ocr_result": [
+                [
+                    269.0,
+                    247.5,
+                    "Header Col 1"
+                ],
+                [
+                    918.0,
+                    248.5,
+                    "Header Col 2"
+                ],
+                [
+                    267.5,
+                    282.0,
+                    " Lorem ipsum"
+                ],
+                [
+                    927.5,
+                    282.0,
+                    " A link example"
+                ]
+            ],
+            "latex_result": "\\begin{tabular}{p{0.35\\linewidth}|p{0.28\\linewidth}p{0.28\\linewidth}p{0.28\\linewidth}}\\hline \\sf Header Col 1& \\sf Header Col 2&\\\\\\hline \\sf Lorem ipsum & \\textcolor{blue}{A link example} \\\\\\hline \\end{tabular}"
+        },
+        {
+            "center_position": [
+                835.5,
+                419.5
+            ],
+            "box_position": [
+                186,
+                354,
+                1485,
+                485
+            ],
+            "category": "table",
+            "ocr_result": [
+                [
+                    204.5,
+                    392.0,
+                    "ad"
+                ],
+                [
+                    666.5,
+                    376.0,
+                    ">b<"
+                ],
+                [
+                    660.5,
+                    409.0,
+                    "Le"
+                ],
+                [
+                    863.0,
+                    405.5,
+                    "If"
+                ],
+                [
+                    670.0,
+                    440.0,
+                    "g&t"
+                ],
+                [
+                    865.0,
+                    439.0,
+                    "Lh"
+                ],
+                [
+                    201.0,
+                    472.0,
+                    "j"
+                ],
+                [
+                    643.5,
+                    472.0,
+                    "k"
+                ]
+            ],
+            "latex_result": "\\begin{tabular}{p{0.2\\columnwidth}|p{0.167\\columnwidth}|p{0.167\\columnwidth}|p{0.167\\columnwidth}|p{0.167\\columnwidth}}\\hline \\texttt{a} & \\multicolumn{2}{l|}{\\texttt{>b<}} & \\texttt{c} \\\\ \\hline \\cline{2-3}\\texttt{d} & \\texttt{e} & \\texttt{f} & \\texttt{i} \\\\ \\cline{2-3} & \\texttt{g8t} & \\texttt{h} & \\\\ \\hline \\texttt{j} & \\multicolumn{2}{l|}{\\texttt{k}} & \\texttt{l} \\\\ \\hline \\end{tabular}"
+        },
+        {
+            "center_position": [
+                491.5,
+                1013.5
+            ],
+            "box_position": [
+                200,
+                998,
+                783,
+                1029
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    490.0,
+                    1015.0,
+                    "Principal Samuel Pattison presented his report."
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                332.0,
+                531.0
+            ],
+            "box_position": [
+                197,
+                515,
+                467,
+                547
+            ],
+            "category": "table_caption",
+            "ocr_result": [
+                [
+                    330.5,
+                    535.5,
+                    "Table with merged cells"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                391.0,
+                1376.0
+            ],
+            "box_position": [
+                246,
+                1300,
+                536,
+                1452
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    361.5,
+                    1320.0,
+                    "Membership"
+                ],
+                [
+                    342.0,
+                    1359.0,
+                    "·Volunteers"
+                ],
+                [
+                    342.0,
+                    1398.0,
+                    "·Newsletter"
+                ],
+                [
+                    387.0,
+                    1436.5,
+                    "● Computer Support"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                271.5,
+                339.5
+            ],
+            "box_position": [
+                195,
+                325,
+                348,
+                354
+            ],
+            "category": "table_caption",
+            "ocr_result": [
+                [
+                    271.0,
+                    344.5,
+                    "Nested Table"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                312.5,
+                216.0
+            ],
+            "box_position": [
+                195,
+                201,
+                430,
+                231
+            ],
+            "category": "table_caption",
+            "ocr_result": [
+                [
+                    313.0,
+                    221.5,
+                    "Simple uniform table"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                390.5,
+                1436.0
+            ],
+            "box_position": [
+                246,
+                1421,
+                535,
+                1451
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    391.5,
+                    1438.0,
+                    "· Computer Support"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                313.0,
+                216.0
+            ],
+            "box_position": [
+                196,
+                201,
+                430,
+                231
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    313.0,
+                    221.5,
+                    "Simple uniform table"
+                ]
+            ]
+        },
+        {
+            "center_position": [
+                346.0,
+                1395.5
+            ],
+            "box_position": [
+                248,
+                1381,
+                444,
+                1410
+            ],
+            "category": "plain_text",
+            "ocr_result": [
+                [
+                    341.5,
+                    1399.0,
+                    "·Newsletter"
+                ]
+            ]
+        }
+    ]
+]
