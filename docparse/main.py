@@ -14,11 +14,20 @@ from PromptAndCLass import DocAnalysePrompt,\
 import os
 
 if __name__ == "__main__":
-    doc_llm = load_json('./data/doc_llm.json')
-    save_folder_path= "./output/"
+    
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Process document LLM")
+    parser.add_argument('--doc_llm_path', type=str, default='./data/doc_llm.json', help='Path to the document LLM JSON file')
+    parser.add_argument('--save_folder_path', type=str, default='./output/', help='Path to save the output')
+
+    args = parser.parse_args()
+
+    doc_llm = load_json(args.doc_llm_path)
+    save_folder_path = args.save_folder_path
     for idx,single_page_llm in enumerate(doc_llm):
-        if idx == 0 or idx == 2:
-            continue
+        # if idx == 0 or idx == 2:
+        #     continue
         
         name2longtext = {}
         longtext_list = []
