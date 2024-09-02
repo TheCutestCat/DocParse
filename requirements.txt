@@ -1,5 +1,5 @@
-python-docx
 fitz
 numpy 
 tqdm
 Pillow
+openai

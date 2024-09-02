@@ -1,6 +1,7 @@
 from latex2png import tex2pil
 import uuid
 
+# 两栏的任务的处理
 def double_column_sort(data):
     # 分组
     group1 = [item for item in data if item['center_position'][0] < 800]
@@ -55,6 +56,7 @@ def openai_wrapper(system_messages,input_messages,response_format,model="gpt-4o-
     else:
         print(completion_result.refusal)
 
+# 将####latex_i####之类的替换回去
 def post_process_replace(pattern,replace_dict,markdown_result,latex2image = False,save_folder_path = None):
     if not latex2image:
         import re
@@ -131,6 +133,7 @@ def single_page_sort(DocAnalyse_result,single_page_llm):
                 if "ocr_result" in item : item['ocr_result'] = sorted( item['ocr_result'], key=lambda x: x[1])
         return name2latex,latex_name_list,page
     else:
+        # 其他的
         raise ValueError('the input text is not one of single_column or double_column')
 
 
