@@ -1,0 +1,30 @@
+\begin{table}[htbp]
+\centering
+\caption{Dietary data of men and women before and during the final seven days of a 21 day Daniel Fast}
+\begin{tabular}{lccc}
+\toprule
+Variable & Pre & During & P value \\
+\midrule
+Kilocalories & $2185 \pm 94$ & $1722 \pm 85$ & 0.0005 \\
+Protein (g) & $92 \pm 6$ & $62 \pm 5$ & 0.0003 \\
+Protein (\%) & $17 \pm 0$ & $13 \pm 0$ & 0.004 \\
+Carbohydrate (g) & $287 \pm 14$ & $269 \pm 17$ & 0.41 \\
+Carbohydrate (\%) & $53 \pm 0$ & $62 \pm 0$ & 0.0002 \\
+Fiber (g) & $26 \pm 2$ & $40 \pm 3$ & $< 0.0001$ \\
+Sugar (g) & $95 \pm 7$ & $86 \pm 6$ & 0.37 \\
+Fat (g) & $74 \pm 5$ & $54 \pm 4$ & 0.003 \\
+Fat (\%) & $30 \pm 0$ & $27 \pm 0$ & 0.20 \\
+Saturated Fat (g) & $24 \pm 2$ & $9 \pm 1$ & $< 0.0001$ \\
+Monounsaturated Fat (g) & $14 \pm 2$ & $14 \pm 2$ & 0.89 \\
+Polyunsaturated Fat (g) & $8 \pm 1$ & $9 \pm 1$ & 0.47 \\
+Trans Fat (g) & $1 \pm 0$ & $0 \pm 0$ & 0.006 \\
+Omega 3 (mg) & $711 \pm 163$ & $798 \pm 202$ & 0.77 \\
+Omega 6 (mg) & $2510 \pm 327$ & $3341 \pm 345$ & 0.10 \\
+Cholesterol (mg) & $225 \pm 19$ & $28 \pm 20$ & $< 0.0001$ \\
+Vitamin C (mg) & $70 \pm 9$ & $119 \pm 12$ & 0.002 \\
+Vitamin E (mg) & $8 \pm 2$ & $11 \pm 1$ & 0.36 \\
+Vitamin A (RE) & $404 \pm 60$ & $435 \pm 70$ & 0.70 \\
+\bottomrule
+\end{tabular}
+\label{tab:my_table}
+\end{table}

@@ -198,13 +198,17 @@ def extract(text, expression=None):
     except Exception:
         traceback.print_exc()
 
-
+def generate_images_from_text(dir_path):
+    for filename in os.listdir(dir_path):
+        if filename.endswith('.txt'):
+            file_path = os.path.join(dir_path, filename)
+            with open(file_path, 'r') as file:
+                text = file.read()
+                image = tex2pil(text)[0]
+                
+                # Save the image in the same directory with .jpg extension
+                image_save_path = os.path.join(dir_path, f"{os.path.splitext(filename)[0]}.jpg")
+                image.save(image_save_path)
 
 if __name__ == '__main__':
-    if len(sys.argv) > 1:
-        src = sys.argv[1]
-    else:
-        src = r'\int_{-\infty}^\infty e^{-x^2} \, dx = \sqrt{\pi}'
-
-    print('Equation is: %s' % src)
-    print(Latex(src).write())
+    generate_images_from_text('./data/table_rec')
