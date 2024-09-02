@@ -1,7 +1,7 @@
 # DocParse
 我们是直接将doc转化pdf，随后将gptpdf和PDF-Extract-kit融合到一起，得到相对不错的效果。对应的结果在`/output/`文件夹
 # 步骤
-1. 我们首先对当前很多pdf解析在线服务做测试，观察方法的优缺点，记录在 data/third_party_test_result/result_analyse.md
+1. 我们首先对当前很多pdf解析在线服务做测试，观察方法的优缺点，记录在 `data/third_party_test_result/result_analyse.md`
 2. 确定了使用PDF-Extract-Kit作为信息提取框架，加上GPT对信息做矫正的思路
 3. 完成相对简单的第一页和第三页
 4. 对第二页出现的“长文本” 以及 “长表”设计信息验证增强（就是把OCR数据也放上去） + 使用关键词代替对应的长文本，从而降低了输入GPT的数据长度
